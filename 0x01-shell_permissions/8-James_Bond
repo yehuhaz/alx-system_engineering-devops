@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod u-a,g-a,o+a
+chmod u-a g-a o+a
